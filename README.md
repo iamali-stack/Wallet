@@ -1,4 +1,10 @@
 # My Wallet - Personal Finance Tracker
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e5a883bf-f476-4975-989d-24122e6ed0e3" width="25%" />
+  <img src="https://github.com/user-attachments/assets/608fa638-50c0-46b8-a373-788c03e9c3fe" width="70%" />
+</p>
+
+
 
 A modern, user-friendly web application for tracking personal finances, built with React and styled with Tailwind CSS.
 
@@ -119,4 +125,4 @@ This project is open source and available under the MIT License.
 
 ---
 
-Made with ❤️ by [Your Name]
+Made by Aly
